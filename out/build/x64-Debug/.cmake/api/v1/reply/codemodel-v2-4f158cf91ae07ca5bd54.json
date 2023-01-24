@@ -1,0 +1,133 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ad244d050993c36e4aed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SPIRV-Cross",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-Debug-32323acac487f84a3063.json",
+					"name" : "spirv-cross",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross-c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-c-Debug-6295a528e32c555b2cfd.json",
+					"name" : "spirv-cross-c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross-core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-core-Debug-2bfdd3761b3595d690cf.json",
+					"name" : "spirv-cross-core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross-cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-cpp-Debug-eb39cd5c43eabf60a021.json",
+					"name" : "spirv-cross-cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross-glsl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-glsl-Debug-ad26a37ce1cae91e18bc.json",
+					"name" : "spirv-cross-glsl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross-hlsl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-hlsl-Debug-64855c201af442fa97ac.json",
+					"name" : "spirv-cross-hlsl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross-msl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-msl-Debug-ed2d5ab37b25f0b0bba6.json",
+					"name" : "spirv-cross-msl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross-reflect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-reflect-Debug-06d61f2774eeb247a007.json",
+					"name" : "spirv-cross-reflect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spirv-cross-util::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spirv-cross-util-Debug-96495861fe356c944952.json",
+					"name" : "spirv-cross-util",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/CoolStuff/CoolCodeingStuff/C++/Librarys/Others/SPIRV-Cross-MoltenVK-1.1.5/SPIRV-Cross-MoltenVK-1.1.5/out/build/x64-Debug",
+		"source" : "C:/CoolStuff/CoolCodeingStuff/C++/Librarys/Others/SPIRV-Cross-MoltenVK-1.1.5/SPIRV-Cross-MoltenVK-1.1.5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
